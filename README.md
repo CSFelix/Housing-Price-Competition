@@ -31,9 +31,9 @@
 
 > **Email:** **[csfelix08@gmail.com](mailto:csfelix08@gmail.com?)**
 
-> **Linkedin:** **[linkedin.com/in/csfelix/](https://www.linkedin.com/in/csfelix/)**
+> **Linkedin:** **[csfelix](https://www.linkedin.com/in/csfelix/)**
 
-> **Instagram:** **[instagram.com/c0deplus/](https://www.instagram.com/c0deplus/)**
+> **Instagram:** **[csfelix08](https://www.instagram.com/csfelix08/)**
 
 ----
 
