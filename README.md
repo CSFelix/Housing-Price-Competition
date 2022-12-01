@@ -15,6 +15,8 @@
 
 > **Competition URL: [Housing Prices Competition for Kaggle Learn Users](https://www.kaggle.com/competitions/home-data-for-ml-course/overview)**
 
+> **Notebook URL: [Predicting House Prices](https://www.kaggle.com/dsfelix/predicting-house-prices)**
+
 ----
 <br>
 
